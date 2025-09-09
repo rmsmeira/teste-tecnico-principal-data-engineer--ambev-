@@ -1,5 +1,5 @@
 # Case
-MVP de plataforma de Data &amp; Analytics para vendas de bebidas. Implementação de pipeline de engenharia de dados com PySpark/Python, modelagem dimensional (Star Schema) e arquitetura de solução em Cloud (Data Lake/BD). Solução focada em responder KPIs de negócio e escalabilidade.
+MVP de plataforma de Data &amp; Analytics para vendas de bebidas. Implementação de pipeline de engenharia de dados com PySpark/Python/SQL, modelagem dimensional (Star Schema) e arquitetura de solução em Cloud (Data Lake/BD). Solução focada em responder KPIs de negócio e escalabilidade.
 
 # Arquitetura de dados medallion architecture
 <img src="https://www.databricks.com/sites/default/files/inline-images/building-data-pipelines-with-delta-lake-120823.png" alt="Preview do projeto" width="900"/>
@@ -48,6 +48,10 @@ A arquitetura **Medallion** organiza o fluxo de dados em três camadas: **Bronze
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
 ![Delta Lake](https://img.shields.io/badge/-Delta_Lake-1E90FF?logo=databricks&logoColor=fff&style=for-the-badge)
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=fff&style=for-the-badge)
+![Databricks](https://img.shields.io/badge/-Databricks-FC6A2A?logo=databricks&logoColor=fff&style=for-the-badge)
+![Streaming Table](https://img.shields.io/badge/-Streaming_Table-00BFFF?logo=apache-spark&logoColor=fff&style=for-the-badge)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=fff&style=for-the-badge)
+![Unity Catalog](https://img.shields.io/badge/-Unity_Catalog-8A2BE2?logo=databricks&logoColor=fff&style=for-the-badge)
 
 ---
 
